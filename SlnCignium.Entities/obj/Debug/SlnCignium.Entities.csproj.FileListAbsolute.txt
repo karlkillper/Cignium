@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Entities\bin\Debug\SlnCignium.Entities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Entities\bin\Debug\SlnCignium.Entities.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Entities\obj\Debug\SlnCignium.Entities.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Entities\obj\Debug\SlnCignium.Entities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Entities\obj\Debug\SlnCignium.Entities.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Entities\bin\Debug\SlnCignium.Entities.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Entities\bin\Debug\SlnCignium.Entities.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Entities\obj\Debug\SlnCignium.Entities.csprojResolveAssemblyReference.cache
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Entities\obj\Debug\SlnCignium.Entities.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Entities\obj\Debug\SlnCignium.Entities.pdb

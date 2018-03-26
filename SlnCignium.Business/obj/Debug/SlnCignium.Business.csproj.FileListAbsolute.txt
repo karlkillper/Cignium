@@ -1,0 +1,22 @@
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Business.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Business.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Entities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Repository.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Entities.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Repository.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Business\obj\Debug\SlnCignium.Business.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Business\obj\Debug\SlnCignium.Business.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Business\obj\Debug\SlnCignium.Business.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Utilities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Utilities.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Business.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Business.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Entities.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Repository.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Utilities.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Entities.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Repository.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Business\bin\Debug\SlnCignium.Utilities.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Business\obj\Debug\SlnCignium.Business.csprojResolveAssemblyReference.cache
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Business\obj\Debug\SlnCignium.Business.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Business\obj\Debug\SlnCignium.Business.pdb

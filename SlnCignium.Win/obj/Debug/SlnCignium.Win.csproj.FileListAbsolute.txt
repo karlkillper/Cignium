@@ -1,0 +1,34 @@
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Win.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Win.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Win.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Business.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Entities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Repository.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Business.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Entities.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Repository.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\obj\Debug\SlnCignium.Win.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\obj\Debug\SlnCignium.Win.MainForm.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\obj\Debug\SlnCignium.Win.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\obj\Debug\SlnCignium.Win.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\obj\Debug\SlnCignium.Win.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\obj\Debug\SlnCignium.Win.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Utilities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Utilities.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Win.exe.config
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\obj\Debug\SlnCignium.Win.exe
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\obj\Debug\SlnCignium.Win.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Win.exe
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Win.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Business.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Entities.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Utilities.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Repository.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Business.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Entities.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Utilities.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\bin\Debug\SlnCignium.Repository.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\obj\Debug\SlnCignium.Win.csprojResolveAssemblyReference.cache
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\obj\Debug\SlnCignium.Win.MainForm.resources
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\obj\Debug\SlnCignium.Win.Properties.Resources.resources
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Win\obj\Debug\SlnCignium.Win.csproj.GenerateResource.Cache

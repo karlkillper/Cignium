@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Utilities\bin\Debug\SlnCignium.Utilities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Utilities\bin\Debug\SlnCignium.Utilities.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Utilities\obj\Debug\SlnCignium.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Utilities\obj\Debug\SlnCignium.Utilities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Utilities\obj\Debug\SlnCignium.Utilities.pdb

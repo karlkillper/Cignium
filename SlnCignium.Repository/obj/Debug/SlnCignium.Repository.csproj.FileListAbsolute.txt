@@ -1,0 +1,18 @@
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Repository\bin\Debug\SlnCignium.Repository.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Repository\bin\Debug\SlnCignium.Repository.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Repository\bin\Debug\SlnCignium.Entities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Repository\bin\Debug\SlnCignium.Entities.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Repository\obj\Debug\SlnCignium.Repository.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Repository\obj\Debug\SlnCignium.Repository.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Repository\obj\Debug\SlnCignium.Repository.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Repository\bin\Debug\SlnCignium.Utilities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\SlnCignium\SlnCignium\SlnCignium.Repository\bin\Debug\SlnCignium.Utilities.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Repository\bin\Debug\SlnCignium.Repository.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Repository\bin\Debug\SlnCignium.Repository.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Repository\bin\Debug\SlnCignium.Entities.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Repository\bin\Debug\SlnCignium.Utilities.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Repository\bin\Debug\SlnCignium.Entities.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Repository\bin\Debug\SlnCignium.Utilities.pdb
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Repository\obj\Debug\SlnCignium.Repository.csprojResolveAssemblyReference.cache
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Repository\obj\Debug\SlnCignium.Repository.dll
+C:\Repos\SlnCignium\SlnCignium\SlnCignium.Repository\obj\Debug\SlnCignium.Repository.pdb
